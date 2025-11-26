@@ -17,9 +17,9 @@ IDM Activation Script is a tool designed to activate Internet Download Manager (
 ## 🛠️ **Installation**
 
 Metodo #1
-1-descargar todo el contenido del repositorio
-2-Descomprimir el archivo descargado 
-3-Egecutar IASL.cmd  seguir las instrucciones para la activación 
+- `1` descargar todo el contenido del repositorio
+- `2` Descomprimir el archivo descargado 
+- `3` Egecutar IASL.cmd  seguir las instrucciones para la activación 
 
 
 ### 2. Intrusiones:
@@ -32,3 +32,11 @@ Metodo #1
   - `6` to exit.
 - If you select `4`, the script will copy the necessary files to the appropriate directory and provide feedback on the operation status.
 
+## 🛠️ **orlandopf96**
+Contenido libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
+Cualquier duda contactar a través de.
+Email: orlandopf96@nauta.cu
+WhatsApp: +5351668065 
+
+
+https://github.com/orlandopf96/orlandopf96_IDM-Activation-Script
