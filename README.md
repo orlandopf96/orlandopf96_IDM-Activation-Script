@@ -32,7 +32,7 @@ Metodo #1
   - `6` to exit.
 - If you select `4`, the script will copy the necessary files to the appropriate directory and provide feedback on the operation status.
 
-![Screenshot](/imagen.jpg)
+![Screenshot](/1.jpg)
 
 ## 🛠️ **orlandopf96**
 Contenido libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
