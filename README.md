@@ -21,8 +21,6 @@ Metodo #1
 - `2` Descomprimir el archivo descargado 
 - `3` Egecutar IASL.cmd  seguir las instrucciones para la activación 
 
-linia de código para PowerShell.
-    iwr -useb https://orlandopf96.github.io/IDM-Activator/IDMA.ps1 | iex
 
 ### 2. Intrusiones:
 - Choose an option from the menu:
